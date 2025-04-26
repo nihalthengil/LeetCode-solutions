@@ -29,8 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/nihalthengil/LeetCode-solutions/tree/master/0412-fizz-buzz) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nihalthengil/LeetCode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3311-ant-on-the-boundary](https://github.com/nihalthengil/LeetCode-solutions/tree/master/3311-ant-on-the-boundary) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nihalthengil/LeetCode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
