@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/nihalthengil/LeetCode-solutions/tree/master/0412-fizz-buzz) |
+| [2083-three-divisors](https://github.com/nihalthengil/LeetCode-solutions/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/nihalthengil/LeetCode-solutions/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/nihalthengil/LeetCode-solutions/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nihalthengil/LeetCode-solutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/nihalthengil/LeetCode-solutions/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/nihalthengil/LeetCode-solutions/tree/master/2491-smallest-even-multiple) |
 ## String
 |  |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nihalthengil/LeetCode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/nihalthengil/LeetCode-solutions/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
