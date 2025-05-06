@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/nihalthengil/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 | [2083-three-divisors](https://github.com/nihalthengil/LeetCode-solutions/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/nihalthengil/LeetCode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/nihalthengil/LeetCode-solutions/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/nihalthengil/LeetCode-solutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/nihalthengil/LeetCode-solutions/tree/master/2507-number-of-common-factors) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/nihalthengil/LeetCode-solutions/tree/master/2058-concatenation-of-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/nihalthengil/LeetCode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nihalthengil/LeetCode-solutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3311-ant-on-the-boundary](https://github.com/nihalthengil/LeetCode-solutions/tree/master/3311-ant-on-the-boundary) |
 ## Simulation
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/nihalthengil/LeetCode-solutions/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/nihalthengil/LeetCode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/nihalthengil/LeetCode-solutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/nihalthengil/LeetCode-solutions/tree/master/2507-number-of-common-factors) |
 ## String
