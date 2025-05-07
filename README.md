@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nihalthengil/LeetCode-solutions/tree/master/0001-two-sum) |
 | [2058-concatenation-of-array](https://github.com/nihalthengil/LeetCode-solutions/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/nihalthengil/LeetCode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nihalthengil/LeetCode-solutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2083-three-divisors](https://github.com/nihalthengil/LeetCode-solutions/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/nihalthengil/LeetCode-solutions/tree/master/2507-number-of-common-factors) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/nihalthengil/LeetCode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
