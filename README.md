@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/nihalthengil/LeetCode-solutions/tree/master/0412-fizz-buzz) |
+| [0742-to-lower-case](https://github.com/nihalthengil/LeetCode-solutions/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/nihalthengil/LeetCode-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nihalthengil/LeetCode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
